@@ -1,1 +1,248 @@
-<mxfile host="Electron" modified="2023-04-07T15:03:28.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.7.9 Chrome/85.0.4183.121 Electron/10.1.3 Safari/537.36" etag="cXolinQmmv1DAAoPdCXQ" version="13.7.9" type="device" pages="3"><diagram id="C5RBs43oDa-KdzZeNtuy" name="des opt 1">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</diagram><diagram name="des opt 2" id="8yYU0vhEp97Y7mavfZoW">7Vpbc+I2FP41TJ/C+H55JCS76UyzzYSdtHnqCFnY2tqWI4sA/fWVbBlb2AQSwNB085BIx9JB8vm+cwsDc5wsv1KQRfckQPHA0ILlwLwZGPzH8vkfIVmVEk+3SkFIcVCK9Fowwf8gKdSkdI4DlCsLGSExw5kqhCRNEWSKDFBKFuqyGYnVT81AiFqCCQRxW/oHDlgkb2G4tfwO4TCqPll35IUTUC2WN8kjEJBFQ2TeDswxJYSVo2Q5RrF4edV78X54o7un6eJl/PLkgq/h1dh3rkplX96zZX0FilJ2XNWGvBpbVe8LBfz1ySmhLCIhSUF8W0uvKZmnARJadT6r1/xGSCaFPxBjK4kFMGeEiyKWxPIpWmL2Jx9rQ1vOnhtPbgT0tGqyqiYpo6vGJjF9bj6rtxWzVUPJA6I4QQxRKSvvLC66AZEd71euy8mcQvTWOlPiHNAQvamwhhHnHyL8kHTFN1IUA4Zf1eMBSYRwvW699YFgfnBDk6S9Mn2v3CM5a2iaqqO8gtzWxExbk6lqcjY0lXdsaeKDxo1qUYHJd+DT/InPE+DT2Bef1mnwaVV4lKhyLHto+Y2fD6K1pde0uTX6xKuMja8gnsu38420IMzQkqmIyxklf6MxiYnAQEpSgeMZjuMNEYhxmPIp5EAQcLl+RZRhHuxG8kGCg6AgwSLCDE0yUABhwUO7QowaZUIBWn4AZ21UVFawTVuxgl1lDIs6/lZuJGqEXlPbDiTFTu81it0yyjPPSP5nVrFsNSbY3pob57KLc5Bz13p07h1O+qMO/0DnvttnOz35bK/lW7f46WP5Vvc/A5eP5gJi1ncy4O2LK+NAXB3kKryWC/81hShjmKRP5tUU5NzGhhMLBz6lfBSKEQRUFJYU5JE4E4S8Ei0wHfD3C8VeUeaJinfYgpaaRHb57QZIwDQn8ZyhEYUSSIW0nlnraFLVoIYIJSRl1QpjI7QMDDOwkRfUOxtPPGNqOs5Jo4Wnst30/I5ooXeFi80K4WgY8D87/0+e92v7ct0/J9erYzbI/sgVY8Q/WDSACBMtn00s5BHIxJC/LRDHKCYhBUlXPtdkYNZwtsrGhhfekbRtMF1ozcuxNjTM3SyfzZADYRfLA9efaqfN1HWV5etUr8HxdfurF47resuwfZK8QfGa8B/JCRXa117gXMTft+D3TpQ7umpFaJmeqmNLVT6iFKwayzKxIH/jg2xzo8ixLBm2tvYMNrdYuq9u4YPyHEdNZiuTNJzcHb8mv2uq5ioEwjmlAt1f2j6v5dCa3k46xGQZis7+cBaTBYwAZcMAQZyL7Kfbt+10WDNji8Nypo592rTEVR2W5bVbC7rV4bB042Qey2wZsspE86wwZm0w52Uu/llwrYyKVHXyffT4vdrHz1FuLZ8dy+w5Zxn7a1s6e8lWt1Wr63Y7TOlah9Xtkxm93ef7fcoAFubmxQiGQkE6IzQBsswgM+F/I9Qg92UWHQB5s047O9BD01mfRYdjdLWo+i069Hbz8BwZyskzBGfPDMHYYsOeSgOnZY0xRYAJWo1iQJOCd2um3ZMUM0JxGvLJIyHJT8ZtMk5NzFy9k3Fur4xzWza+/XZzGUHQg6g7CE49W0SpHoOg5509CHrn8ISfqiHj7+l1D63LDrOz3yLkA0UZJRDlomIR2sVZirZH5XpxUjRpNG6+SlR0Wn/JCxedzS8z/UF6YCO3i+G+45qg356r3sHwXpMfo92J+4zJz/p7aTv7ou45eVgpblhjgtKASyb3E/47JQzPMKwqjoJ5KEH8TiksT5lnhFuClhSE8TwoMyO1LBkU/x8BOM4vkqGXlC55WgdDj5Qs8Wn91cKy61R/QdO8/Rc=</diagram><diagram name="des opt 3" id="t9_CzGLGxzuerR9Dxb2D">7Vpbc+I2FP41TJ/C+G7zmJBsdzqbbCbstE1fdoQsbLW25coiQH99JVvGFjKBBDA03Twk0rF0kHy+79zCwB6ny58pyON7EqJkYBnhcmDfDiz+44z4HyFZVZLAdCpBRHFYicxGMMH/ICk0pHSOQ1QoCxkhCcO5KoQkyxBkigxQShbqshlJ1E/NQYQ0wQSCRJf+hkMWy1tYfiP/jHAU159sevLCKagXy5sUMQjJoiWy7wb2mBLCqlG6HKNEvLz6vYxzDKPnL+zrL9/jP6I7+2EcL68qZZ/esmV9BYoydlzVlrwaW9XvC4X89ckpoSwmEclActdIbyiZZyESWk0+a9Z8ISSXwj8RYyuJBTBnhItilibyKVpi9jsfG0NXzp5bT24F9Ix6sqonGaOr1iYxfW4/a7aVs1VLySOiOEUMUSmr7iwuugGRHe9XrivInEL02jpb4hzQCL2qsIER5x8i/JB0xTdSlACGX9TjAUmEaL1uvfWRYH5wy5CkvbJHQbVHctYyDFVHdQW5rY0ZXZOtavI2NFV31DTxQetGjajE5Bvwaf/A5wnwae2LT+c0+HRqPEpUeY47dEatn3eiVdNru9wafeJVxsYXkMzl23kgGoQZWjIVcQWj5C80JgkRGMhIJnA8w0myIQIJjjI+hRwIAi43L4gyzIPdtXyQ4jAsSbCIMUOTHJRAWPDQrhCjQZlQgJbvwJmOitoKru0qVnDrjGHRxN/ajcSt0Gsb24Gk2OmtRnE1ozzzjOR/ZhXHVWOCG6y5cS67eAc5d6NH597hpN/r8A907rt9tteTzw4037rFTx/Lt/r/Gbi8NxcQs76TgWBfXFkH4uogVxFoLvwJFQ+Ima71q3U1BQW3seUlwoFPKR9FYgQBFYUlBUUszgQhr0RLTIf8/UKGSSbKPFHxDjVoqUlkl99ugQRMC5LMGbqmUAKplDYzZx1N6hrUEqGEZKxeYW2EloFlhy4KwmZn60lgTW3PO2m0CFS228GoI1qYXeFis0I4GgZGH53/J8/7jX25Pjon1+tjKmRnFCP+waIBRJho+WxioYhBLob8bYEkQQmJKEi78rk2A/OWs1U2trzwjqRtg+lCa1GNjaFl72b5bIY8CLtYHvqjqXHaTN1UWb5O9VocX7e/euG4aWqG7ZPkLYo3hH9PTqjQvvEC5yL+vgV/cKLc0VcrQscOVB1bqvJrSsGqtSwXC4pXPsi1N4ocx5Fha2vPYHOLY47ULXxQneOoyWxtkpaT+8yvye+aqbkKgXBOqUD3J93naQ6t7e2kQ0yXkejsD2cJWcAYUDYMEcSFyH66fdtOhzWztjgsb+q5p01LfNVhOYHeWjCdDodlWifzWLZmyDoTLfLSmI3BvL/n4p8FN8qoTFUn366fvtX7+DmqrdWzY5m94Cxj37els5dsdVe1uunqYco0Oqzunszoep/v65QBLMzNixEMhYJsRmgKZJlBZsL/xqhF7sssOgAKZp129mCAprM+iw7P6mpR9Vt0mHrz8BwZyskzBG/PDMHaYsOeSgNPs8aYIsAEra4TQNOSd2um3ZMMM0JxFvHJEyHpD8ZtMk5NzHyzk3F+r4zzNRvfPdxeRhAMIOoOgtPAFVGqxyAYBGcPgsE5POGHasiM9vS6h9Zlh9l5pBHykaKcEogKUbEI7eIsZdujdr04LZs0BjdfLSo7rT8VpYvO55eZ/iAzdJHfxfCR59ug356r2cHwXpMfS+/EfcTkZ/29tJ19Uf+cPKwVt6wxQVnIJZP7Cf+dEYZnGNYVR8k8lCJ+pwxWpyxywi1BKwrCZB5WmZFalgzK/48AnBQXydBLSpcCo4OhR0qW+LT5amHVdWq+oGnf/Qs=</diagram></mxfile>
+<mxfile host="Electron" modified="2023-04-20T05:41:19.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="x8HlaiZIXXZTXnM9_GEH" version="21.1.2" type="device" pages="3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="des opt 1">
+    <mxGraphModel dx="1863" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PJ_j1x3K9BafVdnx8JG4-37" target="PJ_j1x3K9BafVdnx8JG4-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-398" y="200" as="sourcePoint" />
+            <mxPoint x="-393" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PJ_j1x3K9BafVdnx8JG4-36" target="1ICQgReLnfiIvhP6BBDh-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="645.4999999999999" as="sourcePoint" />
+            <mxPoint x="-400" y="635.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-14" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-535" y="514" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-15" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-458" y="585.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3SNbzd3iOcQ8QZhCoeAO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="3SNbzd3iOcQ8QZhCoeAO-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="685.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uZlnAVck6TmtQqg-sQBy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PJ_j1x3K9BafVdnx8JG4-34" target="PJ_j1x3K9BafVdnx8JG4-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-34" value="VGG19-based&lt;br&gt;car crash accident detection model." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-480" y="389.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uZlnAVck6TmtQqg-sQBy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PJ_j1x3K9BafVdnx8JG4-35" target="uZlnAVck6TmtQqg-sQBy-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-35" value="Retrieve footage" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-510" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T_VdZDXZkwJuGa_jbplB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PJ_j1x3K9BafVdnx8JG4-36" target="PJ_j1x3K9BafVdnx8JG4-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-475" y="438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-538" y="544.5" />
+              <mxPoint x="-538" y="419.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-36" value="Has an accident occurred?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-470" y="484" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ_j1x3K9BafVdnx8JG4-37" value="&lt;span style=&quot;&quot;&gt;START&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-450" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1ICQgReLnfiIvhP6BBDh-3" value="Obtain basic information of the accident." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-480" y="625.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Uk58m7aLw3qL5z0HjKj-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3SNbzd3iOcQ8QZhCoeAO-0" target="-Uk58m7aLw3qL5z0HjKj-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3SNbzd3iOcQ8QZhCoeAO-0" value="Create Alarm in the Monitoring Room" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-485" y="715.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uZlnAVck6TmtQqg-sQBy-1" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-450" y="880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uZlnAVck6TmtQqg-sQBy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uZlnAVck6TmtQqg-sQBy-3" target="PJ_j1x3K9BafVdnx8JG4-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uZlnAVck6TmtQqg-sQBy-3" value="Preprocess / resize the image to the model&#39;s input." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-480" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Uk58m7aLw3qL5z0HjKj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Uk58m7aLw3qL5z0HjKj-0" target="uZlnAVck6TmtQqg-sQBy-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Uk58m7aLw3qL5z0HjKj-0" value="Send SMS notification to emergency responders including the accident details." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-485" y="800" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="des opt 2" id="8yYU0vhEp97Y7mavfZoW">
+    <mxGraphModel dx="1863" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-0" />
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-1" parent="8j8AHVbwqCqV7aGg-C96-0" />
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-13" target="8j8AHVbwqCqV7aGg-C96-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-398" y="200" as="sourcePoint" />
+            <mxPoint x="-393" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-12" target="8j8AHVbwqCqV7aGg-C96-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="645.4999999999999" as="sourcePoint" />
+            <mxPoint x="-400" y="635.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-4" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-535" y="514" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-5" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-458" y="585.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="8j8AHVbwqCqV7aGg-C96-1" target="8j8AHVbwqCqV7aGg-C96-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="685.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-8" target="8j8AHVbwqCqV7aGg-C96-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-8" value="InceptionV3-based&lt;br&gt;car crash accident detection model." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-480" y="389.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-10" target="8j8AHVbwqCqV7aGg-C96-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-10" value="Retrieve footage" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-510" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-12" target="8j8AHVbwqCqV7aGg-C96-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-475" y="438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-538" y="544.5" />
+              <mxPoint x="-538" y="419.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-12" value="Has an accident occurred?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-470" y="484" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-13" value="&lt;span style=&quot;&quot;&gt;START&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-450" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-14" value="Obtain basic information of the accident." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-480" y="625.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-16" target="8j8AHVbwqCqV7aGg-C96-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-16" value="Create Alarm in the Monitoring Room" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-485" y="715.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-17" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-450" y="880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-19" target="8j8AHVbwqCqV7aGg-C96-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-19" value="Preprocess / resize the image to the model&#39;s input." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-480" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8j8AHVbwqCqV7aGg-C96-1" source="8j8AHVbwqCqV7aGg-C96-21" target="8j8AHVbwqCqV7aGg-C96-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8j8AHVbwqCqV7aGg-C96-21" value="Send SMS notification and Alert Call to the emergency responders including the accident details." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8j8AHVbwqCqV7aGg-C96-1" vertex="1">
+          <mxGeometry x="-485" y="800" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="des opt 3" id="t9_CzGLGxzuerR9Dxb2D">
+    <mxGraphModel dx="1863" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-0" />
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-1" parent="CpicgYLtOJ_hZgE3NChx-0" />
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-13" target="CpicgYLtOJ_hZgE3NChx-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-398" y="200" as="sourcePoint" />
+            <mxPoint x="-393" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-12" target="CpicgYLtOJ_hZgE3NChx-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="645.4999999999999" as="sourcePoint" />
+            <mxPoint x="-400" y="635.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-4" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-535" y="514" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-5" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-458" y="585.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpicgYLtOJ_hZgE3NChx-1" target="CpicgYLtOJ_hZgE3NChx-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="685.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-8" target="CpicgYLtOJ_hZgE3NChx-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-8" value="ResNet152V2-based&lt;br&gt;car crash accident detection model." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-480" y="389.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-10" target="CpicgYLtOJ_hZgE3NChx-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-10" value="Retrieve footage" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-510" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-12" target="CpicgYLtOJ_hZgE3NChx-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-475" y="438" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-538" y="544.5" />
+              <mxPoint x="-538" y="419.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-12" value="Has an accident occurred?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-470" y="484" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-13" value="&lt;span style=&quot;&quot;&gt;START&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-450" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-14" value="Obtain basic information of the accident." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-480" y="625.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-16" target="CpicgYLtOJ_hZgE3NChx-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-16" value="Create Alarm in the Monitoring Room" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-485" y="715.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-17" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-450" y="880" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-19" target="CpicgYLtOJ_hZgE3NChx-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-19" value="Preprocess / resize the image to the model&#39;s input." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-480" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CpicgYLtOJ_hZgE3NChx-1" source="CpicgYLtOJ_hZgE3NChx-21" target="CpicgYLtOJ_hZgE3NChx-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CpicgYLtOJ_hZgE3NChx-21" value="Send SMS notification and Alert Call to the emergency responders including the accident details." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CpicgYLtOJ_hZgE3NChx-1" vertex="1">
+          <mxGeometry x="-485" y="800" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
